@@ -8,6 +8,7 @@
 <p align="center">Anotações:</p>
 <p align="center"><strong>nest g(generate) module path/path/name</strong> - Criar modules</p>
 <p align="center"><strong>nest g(generate) service path/path/name</strong> - Criar Services</p>
+<p align="center"><strong>nest g(generate) resource user </strong> - Criar Recursos (API, GraphQL, MS)</p>
 
 ## Installation
 
